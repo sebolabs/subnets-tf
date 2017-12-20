@@ -5,7 +5,7 @@ variable "project" {
 
 variable "environment" {
   type        = "string"
-  description = "The project name"
+  description = "The environment name"
 }
 
 variable "component" {
